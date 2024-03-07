@@ -1,7 +1,7 @@
 # Join Community on X(Twitter)
 [https://twitter.com/i/communities/1765751416017322260](https://twitter.com/i/communities/1765751416017322260)
 
-### Track project updates
+### Track project status
 Build one person business with AI.   
 See status update in project: [https://github.com/users/caiyongji/projects/1](https://github.com/users/caiyongji/projects/1)
 
