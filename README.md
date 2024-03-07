@@ -13,7 +13,7 @@ See status update in project: [https://github.com/users/caiyongji/projects/1](ht
 
 ![](./imgs/Build%20in%20Public(Tools).png)
 
-# one-person business projects
+# One-person business projects
 
 # 1. APP: Quit Smoking with AI [(link)](https://github.com/caiyongji/quit_smoking_app)
 [![](./imgs/quitsmoking%20thumbnail.png)](https://github.com/caiyongji/quit_smoking_app)
