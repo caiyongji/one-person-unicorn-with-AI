@@ -1,5 +1,5 @@
 # one-person-unicorn-with-AI
-Build one person unicorn with AI
+Build one person unicorn with AI.   
 See status update in project: [https://github.com/users/caiyongji/projects/1](https://github.com/users/caiyongji/projects/1)
 
 # Why this
