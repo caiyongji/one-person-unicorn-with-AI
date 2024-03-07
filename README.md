@@ -1,6 +1,10 @@
+# Join Community on X(Twitter)
+[https://twitter.com/i/communities/1765751416017322260](https://twitter.com/i/communities/1765751416017322260)
 # one-person-business-with-AI
+### Project status
 Build one person business with AI.   
 See status update in project: [https://github.com/users/caiyongji/projects/1](https://github.com/users/caiyongji/projects/1)
+
 
 # Why this
 ### Sam Altman, the CEO of OpenAI, says:
