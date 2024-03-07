@@ -1,8 +1,6 @@
 # one-person-unicorn-with-AI
 Build one person unicorn with AI
-
-# Wiki page
-[https://github.com/caiyongji/one-person-unicorn-with-AI/wiki](https://github.com/caiyongji/one-person-unicorn-with-AI/wiki)
+See status update in project: [https://github.com/users/caiyongji/projects/1](https://github.com/users/caiyongji/projects/1)
 
 # Why this
 ### Sam Altman, the CEO of OpenAI, says:
