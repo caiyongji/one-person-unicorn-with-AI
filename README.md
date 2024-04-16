@@ -21,3 +21,5 @@ See status update in project: [https://github.com/users/caiyongji/projects/1](ht
 
 # 1. APP: Quit Smoking with AI [(link)](https://github.com/caiyongji/quit_smoking_app)
 [![](./imgs/quitsmoking%20thumbnail.png)](https://github.com/caiyongji/quit_smoking_app)
+
+# 2. Google Extenstion: Social Media GPT(in progress...)
